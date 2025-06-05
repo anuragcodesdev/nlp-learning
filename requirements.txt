@@ -7,6 +7,7 @@ charset-normalizer==3.4.2
 comm==0.2.2
 debugpy==1.8.14
 decorator==5.2.1
+dotenv==0.9.9
 executing==2.2.0
 filelock==3.18.0
 flatbuffers==25.2.10
@@ -52,6 +53,7 @@ pure_eval==0.2.3
 pydub==0.25.1
 Pygments==2.19.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
 PyYAML==6.0.2
 pyzmq==26.4.0
 regex==2024.11.6
