@@ -14,3 +14,4 @@ nlp-learning-env/
 .env
 
 test.ipynb
+processed_audio/*/
