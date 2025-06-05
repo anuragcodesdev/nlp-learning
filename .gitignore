@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+nlp-learning-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system file
+.DS_Store
