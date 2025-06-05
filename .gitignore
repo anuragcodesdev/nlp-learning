@@ -10,3 +10,7 @@ nlp-learning-env/
 
 # macOS system file
 .DS_Store
+
+.env
+
+test.ipynb
