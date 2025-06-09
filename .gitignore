@@ -16,4 +16,5 @@ nlp-learning-env/
 test.ipynb
 AudioTest.ipynb
 processed_audio/*/
+tts_outputs/*/
 AudioTest.py
