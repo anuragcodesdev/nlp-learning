@@ -19,7 +19,6 @@ nlp-env/
 # Project notebooks and temporary files
 test.ipynb
 AudioTest.ipynb
-sentiment.ipynb
 sentiment.ipynb.amltmp
 texttospeech.ipynb.amltmp
 requirements.txt.amltmp
