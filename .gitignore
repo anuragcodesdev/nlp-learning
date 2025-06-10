@@ -4,18 +4,37 @@ __pycache__/
 
 # Virtual environment
 nlp-learning-env/
+nlp-env/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.ipynb_aml_checkpoints/
 
 # macOS system file
 .DS_Store
 
+# Environment variables
 .env
 
+# Project notebooks and temporary files
 test.ipynb
 AudioTest.ipynb
+sentiment.ipynb
+sentiment.ipynb.amltmp
+texttospeech.ipynb.amltmp
+requirements.txt.amltmp
+
+# Audio and outputs
 processed_audio/*/
 tts_outputs/*/
+tts_outputs/.amlignore
+tts_outputs/.amlignore.amltmp
+
+# Project scripts and documentation
 AudioTest.py
 README_AZURE_SETUP.md
+
+# AML-related ignore files
+.amlignore
+.amlignore.amltmp
+.gitignore.amltmp
