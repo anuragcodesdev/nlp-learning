@@ -18,3 +18,4 @@ AudioTest.ipynb
 processed_audio/*/
 tts_outputs/*/
 AudioTest.py
+README_AZURE_SETUP.md
