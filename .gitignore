@@ -22,12 +22,14 @@ AudioTest.ipynb
 sentiment.ipynb.amltmp
 texttospeech.ipynb.amltmp
 requirements.txt.amltmp
+reflection.py.amltmp
 
 # Audio and outputs
 processed_audio/*/
 tts_outputs/*/
 tts_outputs/.amlignore
 tts_outputs/.amlignore.amltmp
+
 
 # Project scripts and documentation
 AudioTest.py
